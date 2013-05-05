@@ -19,6 +19,11 @@ section{
 	}
 
 .planit{
+	background: #F5F5F5 url(../images/cfa.png) bottom right no-repeat;
+	height: 140px;
+}
+
+.planit{
 	background: #F5F5F5 url(../images/planit.jpg) bottom right no-repeat;
 	height: 140px;
 }
