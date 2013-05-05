@@ -1,0 +1,105 @@
+body{
+	background: url(../images/bg.png) repeat;
+	}
+
+.title{
+	margin-top: 75px;
+	}
+
+section{
+	margin-top: 35px;
+}
+
+.apps{
+	padding: 15px 60px 25px 60px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	margin-top:35px;
+	}
+
+.planit{
+	background: #F5F5F5 url(../images/planit.jpg) bottom right no-repeat;
+	height: 140px;
+}
+
+.planit h1{
+	color: #8914B3;
+}
+
+.sbsdc{
+	background: #F5F5F5 url(../images/smart_stop.jpg) bottom right no-repeat;
+	height: 105px;
+}
+
+.sbsdc h1{
+	color: #4AA02C;
+}
+
+.vetpro{
+	background: #F5F5F5 url(../images/instructionsBG.png) bottom right no-repeat;
+	height: 155px;
+}
+
+.latebart{
+	background: #F5F5F5 url(../images/watchBG.png) bottom right no-repeat;
+	height: 110px;
+}
+
+.apps .btn{
+	margin-left: 50px;
+	}
+	
+.maps{
+	background: #F5F5F5;
+	padding: 15px 60px 25px 60px;
+	height: 325px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	}
+	
+.side-hustle{
+	padding: 10px 20px 0 20px;
+	}
+
+.side-hustle img{
+	width: 350px;
+	height: 215px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	}
+	
+.maps .btn{
+	margin-top: 10px;
+	margin-left: 50px;
+	}
+	
+.hacks{
+	background: #F5F5F5 url(../images/diyBikeLanes.jpg) right no-repeat;;
+	padding: 15px 60px 25px 60px;
+	height: 125px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	}
+
+.hacks .btn{
+        margin-left: 50px;
+        }
+
+.websites{
+	background: #F5F5F5;
+	padding: 15px 60px 25px 60px;
+	height: 1300px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	}
+	
+.websites .subtitle{
+	margin-top: 25px;
+	padding-left: 15px;
+	font-family: 'Calligraffitti', cursive;
+	}
